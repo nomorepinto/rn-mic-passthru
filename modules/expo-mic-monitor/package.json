@@ -1,0 +1,16 @@
+{
+  "name": "expo-mic-monitor",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "types": "index.ts",
+  "description": "Low-latency mic-to-speaker passthrough using Google Oboe for Android",
+  "license": "MIT",
+  "keywords": [
+    "expo",
+    "android",
+    "audio",
+    "microphone",
+    "oboe",
+    "low-latency"
+  ]
+}
